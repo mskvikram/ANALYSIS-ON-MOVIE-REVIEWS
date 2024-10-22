@@ -22,5 +22,5 @@ STEPS INVOLVED:
    Project Workflow
    Challenges
 Expected Outcome:
- You will have a sentiment analysis model that can classify IMDb movie reviews as positive or negative withhigh accuracy,
- providing valuable insights into user feedback on films.
+ You will have a sentiment analysis model that can classify IMDb movie reviews as positive or 
+  negative with high accuracy, providing valuable insights into user feedback on films.
